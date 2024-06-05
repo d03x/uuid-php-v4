@@ -1,0 +1,20 @@
+{
+    "name": "dadanski/uuidv4",
+    "description": "uuid v4",
+    "type": "library",
+    "autoload": {
+        "files": [
+            "./src/uuidv4.php"
+        ],
+        "psr-4": {
+            "Dadanski\\Uuidv4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dadanhdyt",
+            "email": "dadanhidyt@gmail.com"
+        }
+    ],
+    "require": {}
+}
