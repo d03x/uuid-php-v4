@@ -2,6 +2,7 @@
     "name": "dadanski/uuidv4",
     "description": "uuid v4",
     "type": "library",
+    "version": "v1.0",
     "minimum-stability": "stable",
     "autoload": {
         "files": [
